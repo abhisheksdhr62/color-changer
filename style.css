@@ -1,0 +1,35 @@
+*{
+    margin: 12px;
+    padding:0;
+  }
+  .box{
+    border: 3px solid rgb(205, 195, 195);
+    height: 30px;
+    width: 30px;
+    padding: 4px;
+   
+    
+    
+  }
+  .cool{
+    justify-content: center;
+    display: flex;
+  }
+  .title{
+    justify-content: center;
+    display: flex;
+    color:rgb(172, 187, 201);
+  }
+  #red{
+    background-color: red
+  }
+  #black{
+    background-color: black
+  }
+  #blue{
+    background-color: blue
+  }
+  #orange{
+    background-color: orange
+  }
+  
